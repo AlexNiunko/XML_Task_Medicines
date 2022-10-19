@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<medicines>
+<medicine name="Septolete" pharm="KRKA">
+    <group>antiseptic</group>
+    <analogs>Strepsils,Hepilor,Angileks</analogs>
+        <version type="spray">
+            <certificate>
+                <number>123456MLD</number>
+                <dateOfIssue>12.10.2022</dateOfIssue>
+                <expiration>12.10.2024</expiration>
+                <organization>Heatlhcare</organization>
+            </certificate>
+            <package>
+                <type>bottle</type>
+                <amount>250ml</amount>
+                <price>25blr</price>
+            </package>
+            <dosage>
+                <amount>2</amount>
+                <period>day</period>
+            </dosage>
+        </version>
+</medicine>
+    <medicine name="Panadol" pharm="Farmaclair">
+        <group>analgesic</group>
+        <analogs>ksefokam,aspirin,nalgesin</analogs>
+        <version type="suspension">
+            <certificate>
+                <number>CVB2345</number>
+                <dateOfIssue>2022-10-23</dateOfIssue>
+                <expiration>2022-10-23</expiration>
+                <organization>KRKA</organization>
+            </certificate>
+            <package>
+                <type>bottle</type>
+                <amount>250</amount>
+                <price>15</price>
+            </package>
+            <dosage>
+                <amount>3</amount>
+                <period>day</period>
+            </dosage>
+        </version>
+    </medicine>
+</medicines>
