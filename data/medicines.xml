@@ -6,8 +6,8 @@
         <version type="spray">
             <certificate>
                 <number>123456MLD</number>
-                <dateOfIssue>12.10.2022</dateOfIssue>
-                <expiration>12.10.2024</expiration>
+                <dateOfIssue>2022-10-12</dateOfIssue>
+                <expiration>2024-10-12</expiration>
                 <organization>Heatlhcare</organization>
             </certificate>
             <package>
